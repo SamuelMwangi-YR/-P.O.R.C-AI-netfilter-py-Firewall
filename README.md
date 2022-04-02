@@ -1,6 +1,13 @@
+Mwangi's Achon's-Amor-py-Firewall P.O.R.C AI Integrations code works on some common browsers namely Firefox, google chrome, Microsoft Edge, Apple Safari, Opera, Brave, Vivaldi, DuckDuckgo etc...(more to be tested & added)
 python-netfilter - Python modules for manipulating netfilter rules  
 Copyright (C) Mwangi 2022 P.O.R.C-AI-py-Firewall
 
+### Features
+1) Block IP addresses
+2) Block access to certain ports 
+3) Block specifed prefixes of IP address (to block networks)
+4) Block too many requests made by the same IP in a short period of time (user can specify threshold and time)
+5) Block popups, Software vulnerabilities, Spam sending/receiving & DDoS or Distributed Denial of Operations Service
 
 About
 =====
